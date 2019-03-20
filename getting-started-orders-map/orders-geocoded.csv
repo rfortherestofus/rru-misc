@@ -1,0 +1,105 @@
+order_date,city_billing,state_code_billing,postcode_billing,country_code_billing,country_name,address,lon,lat
+3/19/19 5:38,Johannesburg,GP,2193,ZA,South Africa,"Johannesburg, GP 2193 South Africa",28.02436,-26.14509
+3/17/19 11:54,Washington DC,DC,20010,US,United States,"Washington DC, DC 20010 United States",-77.03053899999999,38.9339046
+3/16/19 14:24,Pretoria,GP,8,ZA,South Africa,"Pretoria, GP 8 South Africa",28.2292712,-25.7478676
+3/16/19 10:47,Ottawa,ON,K1Z 6C3,CA,Canada,"Ottawa, ON K1Z 6C3 Canada",-75.7442998,45.3933542
+3/15/19 16:21,West Grove,PA,19390,US,United States,"West Grove, PA 19390 United States",-75.82744129999999,39.8220535
+3/15/19 13:51,Denver,CO,80210,US,United States,"Denver, CO 80210 United States",-104.9680914,39.6751269
+3/14/19 12:30,Davis,CA,95618,US,United States,"Davis, CA 95618 United States",-121.7405167,38.5449065
+3/14/19 12:28,Tumwater,WA,98512,US,United States,"Tumwater, WA 98512 United States",-122.9093063,47.0073187
+3/14/19 7:56,Louisville,KY,40245,US,United States,"Louisville, KY 40245 United States",-85.4478726,38.26013330000001
+3/14/19 6:20,Cork,CO,T23 PW56,IE,Ireland,"Cork, CO T23 PW56 Ireland",-8.5966835,51.9264938
+3/14/19 6:07,Rockville,MD,20852,US,United States,"Rockville, MD 20852 United States",-77.1197521,39.0542102
+3/14/19 4:09,Alberton,GP,1449,ZA,South Africa,"Alberton, GP 1449 South Africa",28.1239717,-26.3223942
+3/14/19 1:14,Stellenbosch,WC,7608,ZA,South Africa,"Stellenbosch, WC 7608 South Africa",18.9524518,-33.9193671
+3/13/19 19:32,Bulli,NSW,2516,AU,Australia,"Bulli, NSW 2516 Australia",150.904556,-34.3284699
+3/13/19 13:11,RTP,NC,27709,US,United States,"RTP, NC 27709 United States",-78.86364019999999,35.8991678
+3/13/19 11:17,Lansing,MI,48864,US,United States,"Lansing, MI 48864 United States",-84.406761,42.698235
+3/13/19 8:25,Columbia,SC,29201,US,United States,"Columbia, SC 29201 United States",-81.0368211,33.9873389
+3/13/19 7:28,Meyrin,Mashonaland East,NA,ZW,Zimbabwe,"Meyrin, Mashonaland East NA Zimbabwe",6.070988,46.2283204
+3/13/19 7:22,Brookhaven,GA,30319,US,United States,"Brookhaven, GA 30319 United States",-84.33842899999999,33.8730946
+3/13/19 7:09,Tripoli El-Mina,NA,1301,LB,Lebanon,"Tripoli El-Mina, NA 1301 Lebanon",35.836167,34.4345975
+3/12/19 22:49,Brooklyn,NY,11220,US,United States,"Brooklyn, NY 11220 United States",-74.0153231,40.6385229
+3/12/19 16:25,Chapel Hill,NC,27514,US,United States,"Chapel Hill, NC 27514 United States",-79.04755589999999,35.9722081
+3/12/19 15:43,Lynnwood,WA,98036,US,United States,"Lynnwood, WA 98036 United States",-122.2718563,47.8140773
+3/12/19 14:14,Northfield,MN,55057,US,United States,"Northfield, MN 55057 United States",-93.161604,44.4582983
+3/12/19 10:59,Washington,DC,20006,US,United States,"Washington, DC 20006 United States",-77.0413344,38.897244
+3/12/19 10:46,Zulwini,Hhohho,H126,SZ,Swaziland,"Zulwini, Hhohho H126 Swaziland",31.166667,-26.4
+3/12/19 6:14,Chicago,IL,60647,US,United States,"Chicago, IL 60647 United States",-87.70248169999999,41.9215421
+3/12/19 2:36,Windhoek,Namibia,1200,NA,NA,"Windhoek, Namibia 1200 NA",17.0657549,-22.5608807
+3/12/19 1:33,Johannesburg,GP,2001,ZA,South Africa,"Johannesburg, GP 2001 South Africa",28.0473051,-26.2041028
+3/12/19 0:19,Johannesburg,GP,1805,ZA,South Africa,"Johannesburg, GP 1805 South Africa",28.0473051,-26.2041028
+3/12/19 0:05,Maseru,Lesotho,100,LS,Lesotho,"Maseru, Lesotho 100 Lesotho",27.4869229,-29.3150767
+3/11/19 23:34,Johannesburg,GP,2000,ZA,South Africa,"Johannesburg, GP 2000 South Africa",28.0473051,-26.2041028
+3/11/19 14:40,San Antonio,TX,78213,US,United States,"San Antonio, TX 78213 United States",-98.5226706,29.4981168
+3/11/19 10:58,Missoula,MT,59807,US,United States,"Missoula, MT 59807 United States",-114.0156097,46.852162
+3/11/19 9:41,CAPE TOWN,WC,7460,ZA,South Africa,"CAPE TOWN, WC 7460 South Africa",18.5522531,-33.9116724
+3/11/19 8:33,Sasolburg,GP,1947,ZA,South Africa,"Sasolburg, GP 1947 South Africa",27.8277254,-26.8101899
+3/11/19 7:43,Mbabane,Swaziland,H100,SZ,Swaziland,"Mbabane, Swaziland H100 Swaziland",31.1446041,-26.3236339
+3/11/19 6:05,Bethesda,MD,20892,US,United States,"Bethesda, MD 20892 United States",-77.097455,39.0023604
+3/11/19 5:34,Dar es Salaam,TZ02,255,TZ,Tanzania,"Dar es Salaam, TZ02 255 Tanzania",39.2083284,-6.792354
+3/11/19 2:45,Cape Town,WC,7700,ZA,South Africa,"Cape Town, WC 7700 South Africa",18.48102,-33.9657883
+3/11/19 2:10,Johannesburg,GP,2092,ZA,South Africa,"Johannesburg, GP 2092 South Africa",28.0010421,-26.202209
+3/11/19 2:00,durban,KZN,4001,ZA,South Africa,"durban, KZN 4001 South Africa",31.02204219999999,-29.8496216
+3/11/19 1:59,Stellenbosch,WC,7600,ZA,South Africa,"Stellenbosch, WC 7600 South Africa",18.860223,-33.933752
+3/10/19 11:18,Claremont,CA,91711,US,United States,"Claremont, CA 91711 United States",-117.702148,34.1707374
+3/9/19 13:56,Cookeville,TN,38505,US,United States,"Cookeville, TN 38505 United States",-85.5039271,36.1755178
+3/9/19 11:30,Manchester,NA,M15 4LR,GB,United Kingdom,"Manchester, NA M15 4LR United Kingdom",-2.2338837,53.4668498
+3/9/19 1:14,Stillorgan,D,NA,IE,Ireland,"Stillorgan, D NA Ireland",-6.2035681,53.2877953
+3/8/19 23:32,Delhi,DL,110017,IN,India,"Delhi, DL 110017 India",77.20889869999999,28.5279118
+3/8/19 14:34,Denver,CO,80403,US,United States,"Denver, CO 80403 United States",-105.336536,39.8325847
+3/8/19 14:30,Fond du Lac,WI,54937,US,United States,"Fond du Lac, WI 54937 United States",-88.4470508,43.7730448
+3/8/19 12:03,Washington,DC,20003,US,United States,"Washington, DC 20003 United States",-76.9902276,38.8831372
+3/8/19 11:54,Des Moines,IA,50311,US,United States,"Des Moines, IA 50311 United States",-93.6750005,41.5999808
+3/8/19 10:30,SAN DIEGO,CA,92117,US,United States,"SAN DIEGO, CA 92117 United States",-117.2029363,32.8250767
+3/8/19 9:29,Lincoln,NE,68583-0866,US,United States,"Lincoln, NE 68583-0866 United States",-96.7025955,40.813616
+3/8/19 8:07,Dublin,D,NA,IE,Ireland,"Dublin, D NA Ireland",-6.2603097,53.3498053
+3/8/19 8:06,Fossombrone,PU,61034,IT,Italy,"Fossombrone, PU 61034 Italy",12.8033192,43.6886585
+3/8/19 7:08,Denver,CO,80202,US,United States,"Denver, CO 80202 United States",-105.0002242,39.7541032
+3/8/19 6:56,Wilton,NH,3086,US,United States,"Wilton, NH 3086 United States",-71.785972,42.8341319
+3/8/19 6:38,Rockville,MD,20850,US,United States,"Rockville, MD 20850 United States",-77.1527813,39.0839994
+3/8/19 1:54,London,NA,N1 4PJ,GB,United Kingdom,"London, NA N1 4PJ United Kingdom",-0.0820949,51.548333
+3/8/19 1:45,London,NA,EC1A 4HD,GB,United Kingdom,"London, NA EC1A 4HD United Kingdom",-0.1269566,51.5194133
+3/8/19 0:07,New Delhi,DL,110077,IN,India,"New Delhi, DL 110077 India",77.07184079999999,28.5709904
+3/7/19 23:24,Pretoria,GP,1844,ZA,South Africa,"Pretoria, GP 1844 South Africa",28.2574363,-25.7782064
+3/7/19 23:19,pasadena,CA,91106,US,United States,"pasadena, CA 91106 United States",-118.1268976,34.1456654
+3/7/19 21:30,Brisbane,QLD,4000,AU,Australia,"Brisbane, QLD 4000 Australia",153.023588,-27.4660994
+3/7/19 21:10,Chennai,TN,6000107,IN,India,"Chennai, TN 6000107 India",80.2707184,13.0826802
+3/7/19 20:28,Washington,DC,20002,US,United States,"Washington, DC 20002 United States",-76.98158769999999,38.9052763
+3/7/19 16:25,Boston,MA,2130,US,United States,"Boston, MA 2130 United States",-71.1151431,42.3097365
+3/7/19 14:22,Las Vegas,NV,89154,US,United States,"Las Vegas, NV 89154 United States",-115.1381487,36.1451645
+3/7/19 14:15,NASHVILLE,TN,37215,US,United States,"NASHVILLE, TN 37215 United States",-86.8320743,36.0802326
+3/7/19 13:35,Luxembourg,NA,L1456,LU,Luxembourg,"Luxembourg, NA L1456 Luxembourg",NA,NA
+3/7/19 13:34,Denver,CO,80203,US,United States,"Denver, CO 80203 United States",-104.9826965,39.7312095
+3/7/19 12:53,Memphis,TN,38133,US,United States,"Memphis, TN 38133 United States",-89.7989767,35.2091855
+3/7/19 12:22,Fremont,CA,94555,US,United States,"Fremont, CA 94555 United States",-122.0522177,37.5677679
+3/7/19 12:02,Columbia,SC,29208,US,United States,"Columbia, SC 29208 United States",-81.027157,33.9963052
+3/7/19 11:44,Lincoln,NE,68588,US,United States,"Lincoln, NE 68588 United States",-96.69522540000001,40.818253
+3/7/19 11:30,Asheville,NC,28800,US,United States,"Asheville, NC 28800 United States",-82.5514869,35.5950581
+3/7/19 11:24,New York,NY,10002,US,United States,"New York, NY 10002 United States",-73.9859414,40.7135097
+3/7/19 10:42,Berlin,NA,12203,DE,Germany,"Berlin, NA 12203 Germany",13.3103367,52.4426272
+3/7/19 10:36,Clinton,TN,37716,US,United States,"Clinton, TN 37716 United States",-84.1318632,36.1034126
+3/7/19 10:32,Chicago,IL,60659,US,United States,"Chicago, IL 60659 United States",-87.70248169999999,41.9909198
+3/7/19 10:17,Freeville,NY,13068,US,United States,"Freeville, NY 13068 United States",-76.3466014,42.5139608
+3/7/19 10:15,Amman,Jordan,962,JO,Jordan,"Amman, Jordan 962 Jordan",35.86618199999999,31.955212
+3/7/19 7:58,Dover,NJ,7801,US,United States,"Dover, NJ 7801 United States",-74.5621025,40.883988
+3/6/19 20:30,Nairobi,Nairobi,254,KE,Kenya,"Nairobi, Nairobi 254 Kenya",36.8104246,-1.2859515
+3/6/19 19:47,Calera,AL,35040,US,United States,"Calera, AL 35040 United States",-86.72151749999999,33.1034486
+3/6/19 17:51,St Louis MO,MO,63105,US,United States,"St Louis MO, MO 63105 United States",-90.32372629999999,38.6425518
+3/6/19 10:50,Johannesburg,GP,2047,ZA,South Africa,"Johannesburg, GP 2047 South Africa",28.0473051,-26.2041028
+3/6/19 10:46,Portland,OR,97202,US,United States,"Portland, OR 97202 United States",-122.6427372,45.4807521
+3/6/19 10:25,Portland,OR,97213,US,United States,"Portland, OR 97213 United States",-122.6037536,45.5352835
+3/6/19 9:47,Ikate,LA,NA,NG,Nigeria,"Ikate, LA NA Nigeria",3.346448,6.5059581
+3/6/19 9:09,Portland,OR,97217,US,United States,"Portland, OR 97217 United States",-122.6931698,45.59087340000001
+3/6/19 8:58,Knoxville,TN,37919,US,United States,"Knoxville, TN 37919 United States",-84.0061661,35.9073934
+3/6/19 8:46,NEW DELHI,DL,110016,IN,India,"NEW DELHI, DL 110016 India",77.20027449999999,28.5471702
+3/6/19 8:27,Old Hickory,TN,37138,US,United States,"Old Hickory, TN 37138 United States",-86.6477748,36.2574941
+3/6/19 7:45,St Anthony,MN,55418-1547,US,United States,"St Anthony, MN 55418-1547 United States",-93.2355522,45.0196219
+3/6/19 7:41,Knoxville,TN,37924,US,United States,"Knoxville, TN 37924 United States",-83.7942551,36.0268006
+3/6/19 3:39,Greensboro,NC,27455,US,United States,"Greensboro, NC 27455 United States",-79.8184684,36.1857974
+3/1/19 3:08,London,NA,SE18 6NG,GB,United Kingdom,"London, NA SE18 6NG United Kingdom",-0.1269566,51.5194133
+2/28/19 1:09,Madrid,M,28020,ES,Spain,"Madrid, M 28020 Spain",-3.6952896,40.4563733
+2/27/19 18:52,Arlington,VA,22201,US,United States,"Arlington, VA 22201 United States",-77.0938583,38.8845126
+2/26/19 10:55,Montclair,CA,91763,US,United States,"Montclair, CA 91763 United States",-117.6962824,34.0745742
+2/25/19 17:07,Parma,OH,44134,US,United States,"Parma, OH 44134 United States",-81.7021049,41.3916411
+2/25/19 11:45,Portland,OR,97239-3023,US,United States,"Portland, OR 97239-3023 United States",-122.6875541,45.4874111
