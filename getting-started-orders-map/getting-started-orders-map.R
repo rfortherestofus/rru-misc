@@ -19,6 +19,8 @@ conflict_prefer("here", "here")
 
 # Get Data + Geocode ----------------------------------------------------------------
 
+# Note: I downloaded the orders data from the website and made a CSV copy, removing any identifiable information (e.g. name, exact address).
+
 # orders <- read_csv(here("getting-started-orders-map", "orders.csv")) %>%
 #   clean_names() %>%
 #   mutate(country_name = countrycode(country_code_billing, "iso2c", "country.name")) %>% # Convert country code to name to make geocoding more accurate
