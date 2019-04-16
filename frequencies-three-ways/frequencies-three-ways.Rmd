@@ -1,0 +1,66 @@
+---
+title: "Frequencies Three Ways"
+author: "David Keyes / R for the Rest of Us"
+output: 
+    html_document:
+        css: ../assets/style.css
+        toc: true
+        toc_depth: 1
+        toc_float: true
+        df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE,
+                      message = FALSE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+```
+
+# Get Data
+
+Note: I'm using data from the [NHANES package](https://github.com/ProjectMOSAIC/NHANES) that I've converted it into CSV format.
+
+```{r}
+nhanes <- read_csv("nhanes.csv") %>% 
+  clean_names()
+```
+
+# Look at Data
+
+```{r}
+nhanes
+```
+
+
+# Method #1: group_by and summarize
+
+```{r}
+nhanes %>% 
+  group_by(education) %>% 
+  summarize(n = n()) %>% 
+  mutate(pct = prop.table(n))
+```
+
+
+# Method #2: count
+
+```{r}
+nhanes %>% 
+  count(education) %>% 
+  mutate(pct = prop.table(n))
+```
+
+# Method #3: tabyl
+
+```{r}
+nhanes %>% 
+  tabyl(education)
+```
+
+
+
