@@ -2973,8 +2973,11 @@ div.tocify {
 </div>
 
 
+<div id="load-packages" class="section level1">
+<h1>Load Packages</h1>
 <pre class="r"><code>library(tidyverse)
 library(janitor)</code></pre>
+</div>
 <div id="get-data" class="section level1">
 <h1>Get Data</h1>
 <p>Note: I’m using data from the <a href="https://github.com/ProjectMOSAIC/NHANES">NHANES package</a> that I’ve converted it into CSV format.</p>
@@ -2995,10 +2998,10 @@ library(janitor)</code></pre>
 <pre class="r"><code>nhanes %&gt;% 
   group_by(education) %&gt;% 
   summarize(n = n()) %&gt;% 
-  mutate(pct = prop.table(n))</code></pre>
+  mutate(percent = prop.table(n))</code></pre>
 <div data-pagedtable="false">
 <script data-pagedtable-source type="application/json">
-{"columns":[{"label":["education"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]},{"label":["pct"],"name":[3],"type":["dbl"],"align":["right"]}],"data":[{"1":"NA","2":"2779","3":"0.2779"},{"1":"8th Grade","2":"451","3":"0.0451"},{"1":"9 - 11th Grade","2":"888","3":"0.0888"},{"1":"College Grad","2":"2098","3":"0.2098"},{"1":"High School","2":"1517","3":"0.1517"},{"1":"Some College","2":"2267","3":"0.2267"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+{"columns":[{"label":["education"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]},{"label":["percent"],"name":[3],"type":["dbl"],"align":["right"]}],"data":[{"1":"NA","2":"2779","3":"0.2779"},{"1":"8th Grade","2":"451","3":"0.0451"},{"1":"9 - 11th Grade","2":"888","3":"0.0888"},{"1":"College Grad","2":"2098","3":"0.2098"},{"1":"High School","2":"1517","3":"0.1517"},{"1":"Some College","2":"2267","3":"0.2267"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
   </script>
 </div>
 </div>
@@ -3006,10 +3009,10 @@ library(janitor)</code></pre>
 <h1>Method #2: count</h1>
 <pre class="r"><code>nhanes %&gt;% 
   count(education) %&gt;% 
-  mutate(pct = prop.table(n))</code></pre>
+  mutate(percent = prop.table(n))</code></pre>
 <div data-pagedtable="false">
 <script data-pagedtable-source type="application/json">
-{"columns":[{"label":["education"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]},{"label":["pct"],"name":[3],"type":["dbl"],"align":["right"]}],"data":[{"1":"NA","2":"2779","3":"0.2779"},{"1":"8th Grade","2":"451","3":"0.0451"},{"1":"9 - 11th Grade","2":"888","3":"0.0888"},{"1":"College Grad","2":"2098","3":"0.2098"},{"1":"High School","2":"1517","3":"0.1517"},{"1":"Some College","2":"2267","3":"0.2267"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+{"columns":[{"label":["education"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]},{"label":["percent"],"name":[3],"type":["dbl"],"align":["right"]}],"data":[{"1":"NA","2":"2779","3":"0.2779"},{"1":"8th Grade","2":"451","3":"0.0451"},{"1":"9 - 11th Grade","2":"888","3":"0.0888"},{"1":"College Grad","2":"2098","3":"0.2098"},{"1":"High School","2":"1517","3":"0.1517"},{"1":"Some College","2":"2267","3":"0.2267"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
   </script>
 </div>
 </div>
